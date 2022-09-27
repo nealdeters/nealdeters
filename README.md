@@ -8,7 +8,7 @@
 
 <div class="row">
 <p>
-🌱 I’m currently learning AWS Amplify...<br>
+🌱 I’m currently learning Ruby...<br>
 💬 Ask me about my favorite project...<br>
 </p>
 </div>
